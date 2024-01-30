@@ -35,3 +35,5 @@ All the data, ie, the date, obtained image and the 'detected faces image' are st
 
 ## The Team ❤
 <img src="Documents/IMG_20220601_154920.jpg">
+
+<!-- Rupsa -->
