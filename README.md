@@ -32,8 +32,3 @@ All the faces obtained in the saved image is plotted and saved on a single image
 All the data, ie, the date, obtained image and the 'detected faces image' are stored in a neat document object format in the cloud firestore service provide by Google's Firebase. The images are stored as links which and these links are obtained by saving it first in the storage bucket of firebase itself. These data can only be obtained by authorized officials.
 
 ## Project done ✔✔
-
-## The Team ❤
-<img src="Documents/IMG_20220601_154920.jpg">
-
-<!-- Rupsa -->
